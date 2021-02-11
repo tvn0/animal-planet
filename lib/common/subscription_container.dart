@@ -24,7 +24,7 @@ class SubscriptionContainer extends StatelessWidget {
               colorFilter: ColorFilter.mode(
                   Colors.black.withOpacity(0.5), BlendMode.srcATop),
               child: Image.asset(imagePath,
-                  height: height * 0.6 / 4,
+                  height: height * 0.5 / 4,
                   width: width - 32,
                   fit: BoxFit.fitWidth),
             ),

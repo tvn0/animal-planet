@@ -23,5 +23,5 @@ class Strings {
   static const String reptiles = "REPTILES";
   static const String pets = "PETS";
   static const String loremIpsum =
-      "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem";
+      "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem";
 }
