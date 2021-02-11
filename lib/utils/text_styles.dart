@@ -60,7 +60,7 @@ class TextStyles {
   );
 
   static final TextStyle titleTextStyle = TextStyle(
-    fontSize: 24,
+    fontSize: 22,
     fontWeight: FontWeight.w700,
     color: Colors.white,
     fontFamily: 'Ubuntu',

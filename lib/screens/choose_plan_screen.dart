@@ -25,19 +25,19 @@ class ChoosePlanScreen extends StatelessWidget {
                   SubscriptionContainer(
                       text: Strings.weekSubscription,
                       amount: "1.99",
-                      imagePath: "assets/weekly.jpg"),
+                      imagePath: "assets/images/weekly.jpg"),
                   SubscriptionContainer(
                       text: Strings.oneMonthSubscription,
                       amount: "4.39",
-                      imagePath: "assets/monthly.jpg"),
+                      imagePath: "assets/images/monthly.jpg"),
                   SubscriptionContainer(
                       text: Strings.threeMonthSubscription,
                       amount: "9.99",
-                      imagePath: "assets/3monthly.jpg"),
+                      imagePath: "assets/images/3monthly.jpg"),
                   SubscriptionContainer(
                       text: Strings.sixMonthSubscription,
                       amount: "13",
-                      imagePath: "assets/6monthly.jpg"),
+                      imagePath: "assets/images/6monthly.jpg"),
                 ]),
             Positioned(
                 bottom: 48,

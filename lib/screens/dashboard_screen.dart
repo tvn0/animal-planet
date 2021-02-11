@@ -16,7 +16,7 @@ class DashboardScreen extends StatelessWidget {
                 child: Stack(
                   children: <Widget>[
                     Image.asset(
-                      "asset/images/elephant.jpg",
+                      "assets/images/elephant.jpg",
                       width: MediaQuery.of(context).size.width,
                       fit: BoxFit.fitWidth,
                     ),
@@ -72,7 +72,7 @@ class DashboardScreen extends StatelessWidget {
                                   Expanded(
                                     child: ClipRRect(
                                       child: Image.asset(
-                                        "asset/images/tiger.jpg",
+                                        "assets/images/tiger.jpg",
                                         fit: BoxFit.cover,
                                         width:
                                             MediaQuery.of(context).size.width *
@@ -111,7 +111,7 @@ class DashboardScreen extends StatelessWidget {
                                   Expanded(
                                     child: ClipRRect(
                                       child: Image.asset(
-                                        "asset/images/wild_animals.jpg",
+                                        "assets/images/wild_animals.jpeg",
                                         fit: BoxFit.cover,
                                         width:
                                             MediaQuery.of(context).size.width *
